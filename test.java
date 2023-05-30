@@ -5,6 +5,7 @@ public class test {
         System.out.println("Первая строка");
         System.out.println("Вторая строка");
         System.out.println("Третья строка");
+        System.out.println("Четверая строка");
     }
     
 }
